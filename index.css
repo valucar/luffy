@@ -1,0 +1,17 @@
+h2{background-color: red; color: blue;}
+.titulo {background-color: aquamarine; color: green;}
+.titulo2 {background-color: brown;}
+
+.cuadrado {background-color: blueviolet;
+height: 200px;
+width: 200px;}
+
+.cuadrado2{ background-image: url("./descarga.jpg");
+height: 200px;
+width: 200px;
+background-size: contain;
+background-repeat: no-repeat;
+background-position: center;
+margin: auto;
+display: block;
+background-color: aqua;}
